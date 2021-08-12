@@ -1386,7 +1386,85 @@ p {
 
 }
 
+@media (max-width: 768px) {
 
+    .navbar-nav.navbar-right:last-child {
+
+        margin-right: 0;
+
+    }
+    #logo_small {
+        position: relative;
+    
+        top: -125px;
+    
+        width: 130px;
+    
+        height: 90px;
+    
+        right: 30px;
+        }
+    
+        #logo_big {
+    
+            position: relative;
+        
+            top: -60px;
+        
+            width: 130px;
+        
+            height: 90px;
+    
+            right: 150px;
+        
+            }
+    
+            #Slide1 {
+              background-image: url("https://f.top4top.io/p_2050vwc5x1.png");
+                background-size: 1024px;
+                background-repeat: round;
+           
+                
+            } 
+    #Slide2 {
+        background-image: url("https://k.top4top.io/p_2050os0ye1.png");
+        background-size: 2000px;
+                background-repeat: round;
+    }
+             #Title1 {
+                transform: translate( -200px, -50px); 
+                text-align: center;
+                padding-right:400px;
+            
+            } 
+    
+            #subtitle1 { 
+              
+             transform: translate( -80px, -10px); 
+             
+          
+            }
+    
+            #B1 {
+                transform: translate( -60px, 10px); 
+            }
+    
+            #B2 {
+                transform: translate( 120px, 20px); 
+            }
+    
+            #Title2 {
+                transform: translate( 120px, -10px); 
+        
+            }
+    
+            #icon1 {
+               opacity: 0.15; 
+               position: relative;
+               left: 350px;
+            
+            }
+}
 @media (max-width:600px) {
 
     .tp-banner .home-subheading {
@@ -1430,21 +1508,27 @@ p {
             
         } 
 
+        #Slide2 {
+            background-image: url("https://b.top4top.io/p_2050y5u9d1.png");
+            background-size: 650px;
+             background-repeat: round;
+        }
+
         #Title1 {
+       
+            transform: translate( -520px, -10px);
+     
+        }
 
-            position: relative;
-            font-size: 100px;
-            padding-left: 650px;
-            padding-top: 120px;
-
+        #subtitle1{
+            transform: translate( -50px);
         }
 
         #Title2 {
 
-            position: relative;
-            font-size: 100px;
-            padding-right: 650px;
-            padding-top: 120px;
+    
+            padding-right: 555px;
+            padding-top: 90px;
            
            
             
