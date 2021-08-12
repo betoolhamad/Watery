@@ -2236,9 +2236,8 @@ padding-bottom: 150px;
 /*----- Contact Form -----*/
 
 #contact {
-   padding-top: 90px;
-   padding-bottom: 80px;
    background-image: url("https://images.photowall.com/products/64487/voguish-world-map-light-gray.jpg?h=699&q=85");
+   
 }
 #contact .section-title {
     text-transform: uppercase;
@@ -2397,6 +2396,7 @@ border-bottom:1px dotted #ccc;
 #Contact_Us_title {
     position: relative;
     bottom: 20px;
+    padding-top:70px;
 }
 
 /*----- Video Popup Section -----*/
